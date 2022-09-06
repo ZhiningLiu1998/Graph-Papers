@@ -4,6 +4,7 @@ Contents
 - [Spatio-temporal Graph Mining](#spatio-temporal-graph-mining)
 - [Imbalanced Graph Mining](#imbalanced-graph-mining)
 - [Graph Anomaly Detection](#graph-anomaly-detection)
+- [Graph Uncertainty Learning](#graph-uncertainty-learning)
 
 ## Spatio-temporal Graph Mining
 
@@ -37,3 +38,9 @@ Contents
 | ICDM'21 | FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance | [[pdf](https://ieeexplore.ieee.org/iel7/9678506/9678989/09679178.pdf?casa_token=u388Zhq6ExwAAAAA:nzpXPJ8mfR45579H4tyiGAjlfxSrh2LukB9BRQYXKBNzMIGe0RAAJZNfQ5mnUT-0W3vKOJin-A)] [[code](https://github.com/GeZhangMQ/FRAUDRE_)] |
 | WWW'21 | Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection | [[pdf](https://dl.acm.org/doi/pdf/10.1145/3442381.3449989)] [[code](https://github.com/PonderLY/PC-GNN)] |
 | WWW'21 | Few-shot Network Anomaly Detection via Cross-network Meta-learning | [[pdf](https://arxiv.org/pdf/2102.11165v1.pdf)] [[code](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)] |
+
+## Graph Uncertainty Learning
+
+| Venue | Title | Links |
+|-------|-------|-------|
+| KDD'22 | JuryGCN: Quantifying Jackknife Uncertainty on Graph Convolutional Networks | [[pdf](https://dl.acm.org/doi/pdf/10.1145/3534678.3539286?casa_token=AxaBEu59ZI4AAAAA:2sV37drJUdBybc9z1mCnh3YZMD9MMUBlqRVTrTZTOaTKQHGLySycFjSFLElglFqWpI_talPfJEzp)] |
