@@ -3,6 +3,7 @@
 Contents
 - [Spatio-temporal Graph Mining](#spatio-temporal-graph-mining)
 - [Imbalanced Graph Mining](#imbalanced-graph-mining)
+- [Graph Anomaly Detection](#graph-anomaly-detection)
 
 ## Spatio-temporal Graph Mining
 
@@ -27,3 +28,12 @@ Contents
 | arXiv | GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction | [[pdf](https://arxiv.org/pdf/2106.11133v1.pdf)] |
 | ICLR'22 | GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification | [[pdf](https://openreview.net/pdf?id=MXEl7i-iru)] [[code](https://github.com/JoonHyung-Park/GraphENS)] |
 | arXiv | LTE4G: Long-Tail Experts for Graph Neural Networks | [[pdf](https://arxiv.org/pdf/2208.10205.pdf)] [[code](https://github.com/SukwonYun/LTE4G)] |
+
+## Graph Anomaly Detection
+
+| Venue | Title | Links |
+|-------|-------|-------|
+| TKDE'21 | A Comprehensive Survey on Graph Anomaly Detection with Deep Learning | [[pdf](https://arxiv.org/pdf/2106.07178v5.pdf)] [[code](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)] |
+| ICDM'21 | FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance | [[pdf](https://ieeexplore.ieee.org/iel7/9678506/9678989/09679178.pdf?casa_token=u388Zhq6ExwAAAAA:nzpXPJ8mfR45579H4tyiGAjlfxSrh2LukB9BRQYXKBNzMIGe0RAAJZNfQ5mnUT-0W3vKOJin-A)] [[code](https://github.com/GeZhangMQ/FRAUDRE_)] |
+| WWW'21 | Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection | [[pdf](https://dl.acm.org/doi/pdf/10.1145/3442381.3449989)] [[code](https://github.com/PonderLY/PC-GNN)] |
+| WWW'21 | Few-shot Network Anomaly Detection via Cross-network Meta-learning | [[pdf](https://arxiv.org/pdf/2102.11165v1.pdf)] [[code](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)] |
