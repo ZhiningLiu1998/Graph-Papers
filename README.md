@@ -2,8 +2,10 @@
 
 Contents
 - [Spatio-temporal Graph Mining](#spatio-temporal-graph-mining)
-- [Imbalanced Graph Mining](#imbalanced-graph-mining)
-- [Degree-related Bias in Graph Mining](#degree-related-bias-in-graph-mining)
+- [Fair Graph Mining](#fair-graph-mining)
+  - [Degree-related bias](#degree-related-bias)
+  - [Class-related bias](#class-related-bias)
+  - [Supervision-related bias](#supervision-related-bias)
 - [Graph Anomaly Detection](#graph-anomaly-detection)
 - [Graph Data Augmentation](#graph-data-augmentation)
 - [Graph Uncertainty](#graph-uncertainty)
@@ -23,10 +25,20 @@ Contents
 
 
 
-## Imbalanced Graph Mining
+## Fair Graph Mining
+
+### Degree-related bias 
 
 | Venue | Title | Links |
 |-------|-------|-------|
+| WWW'22 | Rawlsgcn: Towards rawlsian difference principle on graph convolutional network | [[pdf](https://arxiv.org/pdf/2202.13547v1.pdf)] [[code](https://github.com/jiank2/RawlsGCN)] |
+| CIKM'20 | Investigating and mitigating degree-related biases in graph convoltuional networks | [[pdf](https://dl.acm.org/doi/pdf/10.1145/3340531.3411872)] |
+
+### Class-related bias
+
+| Venue | Title | Links |
+|-------|-------|-------|
+| ICML'22 | TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification | [[pdf](https://proceedings.mlr.press/v162/song22a/song22a.pdf)] [[code](https://github.com/Jaeyun-Song/TAM)] |
 | ICLR'22 | GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification | [[pdf](https://openreview.net/pdf?id=MXEl7i-iru)] [[code](https://github.com/JoonHyung-Park/GraphENS)] |
 | CIKM'22 | LTE4G: Long-Tail Experts for Graph Neural Networks | [[pdf](https://arxiv.org/pdf/2208.10205.pdf)] [[code](https://github.com/SukwonYun/LTE4G)] |
 | arXiv'21 | GraphMixup: Improving Class-Imbalanced Node Classification on Graphs by Self-supervised Context Prediction | [[pdf](https://arxiv.org/pdf/2106.11133v1.pdf)] |
@@ -35,12 +47,11 @@ Contents
 | IJCAI'20 | Multi-Class Imbalanced Graph Convolutional Network Learning | [[pdf](https://par.nsf.gov/servlets/purl/10199469)] |
 | J MIA | RA-GCN: Graph Convolutional Network for Disease Prediction Problems with Imbalanced Data | [[pdf](https://arxiv.org/pdf/2103.00221v3.pdf)] |
 
-## Degree-related Bias in Graph Mining
+### Supervision-related bias
 
 | Venue | Title | Links |
 |-------|-------|-------|
-| WWW'22 | Rawlsgcn: Towards rawlsian difference principle on graph convolutional network | [[pdf](https://arxiv.org/pdf/2202.13547v1.pdf)] [[code](https://github.com/jiank2/RawlsGCN)] |
-| CIKM'20 | Investigating and mitigating degree-related biases in graph convoltuional networks | [[pdf](https://dl.acm.org/doi/pdf/10.1145/3340531.3411872)] |
+| NeurIPS'21 | Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data | [[pdf](https://proceedings.neurips.cc/paper/2021/file/eb55e369affa90f77dd7dc9e2cd33b16-Paper.pdf)] [[code](https://github.com/GentleZhu/Shift-Robust-GNNs)] |
 
 ## Graph Anomaly Detection
 
