@@ -45,10 +45,14 @@ Contents
 
 ## Graph Learning with Weak Supervision
 
-| Venue   | Title                                                        | Links                                                                                                                            |
-| ------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| WSDM'23 | Few-shot Node Classification with Extremely Weak Supervision | [[pdf](https://arxiv.org/pdf/2301.02708.pdf)] [[code](https://github.com/SongW-SW/X-FNC)]                                        |
-| ICDM'22 | Generalized Few-Shot Node Classification                     | [[pdf](https://www.public.asu.edu/~kding9/pdf/Zhe_FewShotClassification_ICDM22.pdf)] [[code](https://github.com/pricexu/STAGER)] |
+- https://github.com/kaize0409/awesome-few-shot-gnn
+
+| Venue   | Title                                                                                                  | Links                                                                                                                            |
+| ------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| AAAI'20 | Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes | [[pdf](https://zhouchenlin.github.io/Publications/2020-AAAI-M3S.pdf)]                                                            |
+| arXiv   | Toward Robust Graph Semi-Supervised Learning against Extreme Data Scarcity                             | [[pdf](https://arxiv.org/pdf/2208.12422.pdf)]                                                                                    |
+| WSDM'23 | Few-shot Node Classification with Extremely Weak Supervision                                           | [[pdf](https://arxiv.org/pdf/2301.02708.pdf)] [[code](https://github.com/SongW-SW/X-FNC)]                                        |
+| ICDM'22 | Generalized Few-Shot Node Classification                                                               | [[pdf](https://www.public.asu.edu/~kding9/pdf/Zhe_FewShotClassification_ICDM22.pdf)] [[code](https://github.com/pricexu/STAGER)] |
 
 
 ## Graph Neural Network Architecture
@@ -67,6 +71,9 @@ Contents
 | WWW'21  | Few-shot Network Anomaly Detection via Cross-network Meta-learning            | [[pdf](https://arxiv.org/pdf/2102.11165v1.pdf)] [[code](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)]                                                                                                              |
 
 ## Graph Data Augmentation
+
+- https://github.com/kaize0409/awesome-graph-data-augmentaion
+
 | Venue    | Title                                                                            | Links                                                                                                                 |
 | -------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | arXiv'22 | Graph Data Augmentation for Graph Machine Learning: A Survey                     | [[pdf](https://arxiv.org/pdf/2202.08871v1.pdf)] [[code](https://github.com/zhao-tong/graph-data-augmentation-papers)] |
